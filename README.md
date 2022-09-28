@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Roshan121jha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Roshan121jha/Roshan121jha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-- Following up the recursion playlist of take u forward
+-- link -- https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9
+-- contains 18 videos
+-- started on sep28 need to finish by 06th of october 2022.
